@@ -1,0 +1,2 @@
+Prefix plugins/LFU/example/
+Plugin LFU inputfile parameters.txt outputfile out.lfu.txt
